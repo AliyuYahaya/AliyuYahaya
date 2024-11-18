@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AliyuYahaya
-- 👀 I’m interested in Data Science and Machine Larning
-- 🌱 I’m currently learning Java, React and MongoDB
-- 💞️ I’m looking to collaborate on Progressive Web Apps or any other software 
-- 📫 How to reach me ...
+- 👀 I’m interested in Software Enginnering Data Science and Machine Larning
+- 🌱 I’m currently advancing Java, React and MongoDB
+- 💞️ I’m looking to collaborate on Progressive Web Apps and other frontend projects 
+- 📫 How to reach me: https://aliyuyahaya.github.io
 - ⚡ Fun fact: ...
 
 <!---
