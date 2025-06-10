@@ -38,9 +38,9 @@
 ```yaml
 name: Aliyu Yahaya
 located_in: Cape Town, South Africa
-current_job: Freelance Software Engineer
+current_job: Software Engineering Intern
 
-company: Seld Employed
+company: Code Infinity
 
 fields_of_interests:
   [
