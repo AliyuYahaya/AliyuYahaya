@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a7f37,100:0d1117&height=150&text=Aliyu%20Yahaya&fontColor=ffffff&fontSize=46&fontAlignY=42&desc=Yavid%20PTY%20Ltd%20%C2%B7%20Cape%20Town&descAlignY=72&descSize=18" alt="Aliyu Yahaya, Yavid PTY Ltd, Cape Town" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a7f37,100:0d1117&height=150&text=Aliyu%20Yahaya&fontColor=ffffff&fontSize=46&fontAlignY=42&desc=Yavid%20PTY%20Ltd%20%C2%B7%20Cape%20Town&descAlignY=72&descSize=18" alt="Aliyu Yahaya, MedInformer, Cape Town" />
 </p>
 
 <p align="center">
